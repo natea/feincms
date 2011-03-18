@@ -2,10 +2,9 @@
 
 import os
 from distutils.core import setup
-import feincms
 
 setup(name='FeinCMS',
-    version=feincms.__version__,
+    version='1.3.0.pre1',
     description='Django-based Page CMS and CMS building toolkit.',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README')).read(),
     author='Matthias Kestenholz',
