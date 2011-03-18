@@ -1,0 +1,4 @@
+-e git+git://github.com/natea/feincms.git#egg=feincms
+-e git+git://github.com/django-mptt/django-mptt.git#egg=mptt
+django-tagging==0.3.1
+feedparser==5.0.1
