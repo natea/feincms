@@ -1,5 +1,7 @@
 Django==1.2.5
--e git+git://github.com/natea/feincms.git#egg=feincms
--e git+git://github.com/django-mptt/django-mptt.git#egg=mptt
+#-e git+git://github.com/natea/feincms.git#egg=feincms
+FeinCMS==1.0.4
+#-e git+git://github.com/django-mptt/django-mptt.git#egg=mptt
+django-mptt=0.4.2
 django-tagging==0.3.1
 feedparser==5.0.1
